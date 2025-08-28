@@ -44,4 +44,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj9892)](https://solved.ac/jyj9892)
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fgeun-00?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 </div>
+

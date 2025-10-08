@@ -15,7 +15,7 @@
 			학습한 내용을 부트캠프 및 사이드 프로젝트에 적용하면서 백엔드 개발자로서 역량을 다지고 있는 장근영입니다.
 		</p>
 		<p>
-  			👉 <a href="https://github.com/geun-00/TIL">독학하면서 정리한 내용</a>
+  			👉 <a href="https://github.com/geun-00/TIL?tab=readme-ov-file#til-">독학하면서 정리한 내용 보러가기</a>
 		</p>
 	</div> 
 </div>

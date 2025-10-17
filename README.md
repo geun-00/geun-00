@@ -25,7 +25,10 @@
     <div style="text-align: left;"> 		
 		<a href=mailto:jgy091411@gmail.com> 
 			<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jgy091411@gmail.com"> 
-		</a>	
+		</a>
+		<a href=https://journal9185.tistory.com> 
+			<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://journal9185.tistory.com"> 
+		</a>
 	</div>
 </div> 
 

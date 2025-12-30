@@ -26,8 +26,8 @@
 		<a href=mailto:geunyeong.backend@gmail.com> 
 			<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:geunyeong.backend@gmail.com"> 
 		</a>
-		<a href=https://journal9185.tistory.com> 
-			<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://journal9185.tistory.com"> 
+		<a href=https://thisisdev.store> 
+			<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://thisisdev.store> 
 		</a>
 	</div>
 </div> 

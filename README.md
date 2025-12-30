@@ -27,7 +27,7 @@
 			<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:geunyeong.backend@gmail.com"> 
 		</a>
 		<a href=https://thisisdev.store> 
-			<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://thisisdev.store> 
+			<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://thisisdev.store"> 
 		</a>
 	</div>
 </div> 

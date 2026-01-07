@@ -37,7 +37,6 @@
   
   <div style="text-align: left;">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" />
   	<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring_Data_Jpa-6DB33F?style=flat&logo=Spring%20Data%20JPA&logoColor=white">
@@ -59,8 +58,8 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div style="text-align: left;"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=geun-00&show_icons=true&theme=swift">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geun-00&layout=compact&theme=swift">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=geun-00&show_icons=true&theme=swift">
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geun-00&layout=compact&theme=swift">
   </div>
 </div>
 
